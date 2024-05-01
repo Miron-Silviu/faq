@@ -13,12 +13,20 @@
 }
 
 body {
+  height: 100vh;
   .work-sans-uniquifier {
     font-family: 'Work Sans', sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
   }
+  background-image: linear-gradient(
+    0deg,
+    var(--grayish-purple),
+    50%,
+    var(--dark-purple) 0%
+  );
+  background-repeat: no-repeat;
 }
 
 html {
