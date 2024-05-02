@@ -46,5 +46,26 @@ html {
 .title {
   color: var(--dark-purple);
   font-weight: 900;
-  font-size: 30px;
+  font-size: 27px;
+}
+
+/* main-question */
+
+.main-question-title,
+.first-question-title {
+  color: var(--dark-purple);
+  font-weight: 700;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.main-question-description,
+.first-question-description {
+  color: var(--grayish-purple);
+  font-family: 'Work Sans', sans-serif;
+}
+
+/* First-question */
+
+.first-button {
+  background-color: var(--white);
 }
