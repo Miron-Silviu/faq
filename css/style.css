@@ -55,3 +55,8 @@ html {
   color: var(--dark-purple);
   font-weight: 700;
 }
+
+.first-question-btn {
+  background: var(--white);
+  border: none;
+}
