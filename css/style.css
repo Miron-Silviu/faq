@@ -37,3 +37,14 @@ html {
 .main-section {
   width: 300px;
 }
+
+/* title-container */
+.title-image {
+  width: 2.5rem;
+}
+
+.title {
+  color: var(--dark-purple);
+  font-weight: 900;
+  font-size: 30px;
+}
