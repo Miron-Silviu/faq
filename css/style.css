@@ -60,3 +60,8 @@ html {
   background: var(--white);
   border: none;
 }
+
+.first-question-description {
+  color: var(--grayish-purple);
+  font-family: 'Work Sans', sans-serif;
+}
