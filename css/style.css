@@ -46,5 +46,12 @@ html {
 .title {
   color: var(--dark-purple);
   font-weight: 900;
-  font-size: 30px;
+  font-size: 27px;
+}
+
+/* main-question */
+
+.main-question-title {
+  color: var(--dark-purple);
+  font-weight: 700;
 }
