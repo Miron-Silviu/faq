@@ -52,20 +52,23 @@ html {
 /* main-question */
 
 .main-question-title,
-.first-question-title {
+.first-question-title,
+.second-question-title {
   color: var(--dark-purple);
   font-weight: 700;
   font-family: 'Work Sans', sans-serif;
 }
 
 .main-question-description,
-.first-question-description {
+.first-question-description,
+.second-question-description {
   color: var(--grayish-purple);
   font-family: 'Work Sans', sans-serif;
 }
 
 /* First-question */
 
-.first-button {
+.first-button,
+.second-button {
   background-color: var(--white);
 }
