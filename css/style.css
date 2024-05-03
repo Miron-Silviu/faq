@@ -13,8 +13,9 @@
 }
 
 body {
-  height: 100vh;
-  width: 100vw;
+  height: auto;
+  width: 100%;
+  background-repeat: no-repeat;
   .work-sans-uniquifier {
     font-family: 'Work Sans', sans-serif;
     font-optical-sizing: auto;
@@ -27,7 +28,6 @@ body {
     60%,
     var(--dark-purple) 0%
   );
-  background-repeat: no-repeat;
 }
 
 html {
@@ -36,6 +36,8 @@ html {
 /* main-container */
 .main-section {
   width: 300px;
+  margin-top: 150px;
+  margin-bottom: 20px;
 }
 
 /* title-container */
@@ -46,5 +48,51 @@ html {
 .title {
   color: var(--dark-purple);
   font-weight: 900;
-  font-size: 30px;
+  font-size: 27px;
+}
+
+/* main-question */
+
+.main-question-title,
+.first-question-title,
+.second-question-title,
+.third-question-title {
+  color: var(--dark-purple);
+  font-weight: 700;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.main-question-description,
+.first-question-description,
+.second-question-description,
+.third-question-description {
+  color: var(--grayish-purple);
+  font-family: 'Work Sans', sans-serif;
+}
+
+/* First-question */
+
+.first-button,
+.second-button,
+.third-button {
+  background-color: var(--white);
+}
+
+@media screen and (min-width: 400px) {
+  .main-section {
+    margin-top: 200px;
+    width: 50%;
+    margin-bottom: 100px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  .main-section {
+    margin-top: 300px;
+    margin-bottom: 100px;
+    width: 30%;
+  }
+  .second-question-title,
+  .main-question-title {
+    padding-right: 1rem;
+  }
 }
