@@ -44,3 +44,5 @@ Users should be able to:
 - [javaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
 ### What I learned
+
+I learned how to implement logic inside of eventListener in javaScript, also I learned how to use bootstrap classes in concordance with CSS. I improved my knowledge on how to use better responsive design, accessability and CEO.
