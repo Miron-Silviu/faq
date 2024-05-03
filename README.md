@@ -27,6 +27,8 @@ Users should be able to:
 ### Screenshot
 
 ![alt text](image.png)
+![image](https://github.com/Miron-Silviu/faq/assets/119732322/b4b93b4f-ef40-4bf0-bf06-0b63dcf590c4)
+
 
 ### Links
 
