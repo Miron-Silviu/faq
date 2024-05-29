@@ -16,7 +16,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 This is a FAQ simple project to improve my javaScript skills.
 
-### The challenge
+## The challenge
 
 Users should be able to:
 
@@ -24,19 +24,19 @@ Users should be able to:
 - Navigate the questions and hide/show answers using keyboard navigation alone
 - View the optimal layout for the interface depending on their device's screen size
 
-### Screenshot
+# LINK
+- Live Site URL: [https://miron-silviu.github.io/faq/]
+- 
+##Screenshot
 
 ![alt text](image.png)
 ![image](https://github.com/Miron-Silviu/faq/assets/119732322/b4b93b4f-ef40-4bf0-bf06-0b63dcf590c4)
 
 
-### Links
-
-- Live Site URL: [https://miron-silviu.github.io/faq/]
 
 ## My process
 
-### Built with
+## Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -45,6 +45,6 @@ Users should be able to:
 - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [javaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 
-### What I learned
+## What I learned
 
 I learned how to implement logic inside of eventListener in javaScript, also I learned how to use bootstrap classes in concordance with CSS. I improved my knowledge on how to use better responsive design, accessability and CEO.
