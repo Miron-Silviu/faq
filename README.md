@@ -25,7 +25,7 @@ Users should be able to:
 - View the optimal layout for the interface depending on their device's screen size
 
 # LINK
-[CLICK ME FOR LIVE VIEW](https://miron-silviu.github.io/faq/)
+[ VIEW DEMO](https://miron-silviu.github.io/faq/)
 - 
 ##Screenshot
 
